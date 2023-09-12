@@ -1,0 +1,79 @@
+Gmail
+<a target="_blank" href="https://icons8.com/icon/P7UIlhbpWzZm/gmail">Gmail</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>
+
+YouTube
+<a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
+
+<a target="_blank" href="https://icons8.com/icon/9a46bTk3awwI/youtube">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+X
+<a target="_blank" href="https://icons8.com/icon/phOKFKYpe00C/twitterx">TwitterX</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+Twitter
+<a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Freepik - Flaticon</a>
+
+Maps
+<a href="https://www.flaticon.com/free-icons/google-maps" title="google maps icons">Google maps icons created by justicon - Flaticon</a>
+
+<a target="_blank" href="https://icons8.com/icon/32215/google-maps-old">Google Maps</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+Back arrow(Font Awesome)
+<i class="fa-solid fa-arrow-left"></i>
+
+Front Arrow(Font Awesome)
+<i class="fa-solid fa-arrow-right"></i>
+
+Reload
+<i class="fa-solid fa-rotate-right"></i>
+
+Google
+<a target="_blank" href="https://icons8.com/icon/17949/google">Google</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a href="https://www.flaticon.com/free-icons/google" title="google icons">Google icons created by Freepik - Flaticon</a>
+
+Share
+<i class="fa-solid fa-share-from-square"></i>
+
+Star
+<i class="fa-solid fa-star"></i>
+
+Github
+<i class="fa-solid fa-github"></i>
+
+Cookie
+
+Playlist
+<i class="fa-solid fa-list-check"></i>
+
+Download
+<i class="fa-solid fa-download"></i>
+
+Bookmark or pages
+<i class="fa-solid fa-window-maximize"></i>
+
+Profile
+Use a border instead
+
+More or options
+<i class="fa-solid fa-info"></i>
+
+Menu
+<i class="fa-solid fa-bars"></i>
+
+Search
+<i class="fa-solid fa-magnifying-glass"></i>
+
+Google mic - location
+<a target="_blank" href="https://icons8.com/icon/y9LJ0mNaH6XG/google-maps">Google Maps</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a href="https://www.flaticon.com/free-icons/google-maps" title="google maps icons">Google maps icons created by Freepik - Flaticon</a>
+
+Google scan - Cloud
+<a target="_blank" href="https://icons8.com/icon/WHRLQdbEXQ16/google-cloud">Google Cloud</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+Add
+<i class="fa-solid fa-plus"></i>
+
+Write or edit
+<i class="fa-solid fa-pen"></i>
